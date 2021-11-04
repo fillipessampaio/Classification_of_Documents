@@ -22,4 +22,3 @@
   
 - Data source: private dataset
 - [Notebook](https://github.com/fillipessampaio/Classification_of_Documents/blob/main/notebooks/Classification_of_Documents.ipynb) 
-- 
